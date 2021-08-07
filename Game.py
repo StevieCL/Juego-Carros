@@ -7,7 +7,7 @@ jugadores = False
 while not jugadores:
     jugadores = juego.Crear_Jugadores()                    # Crear jugadores, conductores
     
-contenedor_victorias = juego.Crear_Contenedor_Victorias()
+contenedor_victorias = juego.Crear_Contenedor_Victorias()  # Crear contenedor que almacenará los resultados del podio
 jugar = True
 while jugar:
     pista, distancia = juego.Crear_Pista()                 # Crear pista 
