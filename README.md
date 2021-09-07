@@ -1,4 +1,5 @@
-# Reto-Sofka
+# Juego de Carros
+
 Solución al reto técnico de Sofka para aplicar a su Training League. 
 
 
